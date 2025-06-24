@@ -2,9 +2,9 @@
 
 ## 👏 Hello!
 
-I am currently a Postdoctoral Research Associate at <a href="https://mrec.ifas.ufl.edu/"> the Mid-Florida Research and Education Center</a> at the University of Florida. 
-I received my Ph.D. degree in 2023 from the University of Missouri-Columbia and will enter the job market in the 2024-2025 academic year. For more details on my work, please refer to my 
-<a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"> CV</a>.
+I am an applied economics with research interest in agricultural and food policy, demand and price analysis, and consumer behavior. 
+I received my Ph.D. degree in Agricultural and Applied Economics from the University of Missouri-Columbia in 2023 and am currently seeking academic or research opportunities.
+For more details, please see my <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"> CV</a>.
 
 -----
 <br>
