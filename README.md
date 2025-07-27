@@ -35,11 +35,11 @@ Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
 
 <span style="color:black;"> Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities </span><br>
 (with Thompson, W., Hoang, H., Abler, D., and Miller, J. I.)<br>
-Revise and Resubmit at Food Policy<br>
+Revise and Resubmit at <i>Food Policy</i><br>
 <br>
 <span style="color:black;"> Effect of a Policy Intervention to Stimulate Lead Service Line Replacement: Evidence from Wisconsin </span><br>
 (with Cho, C)<br>
-Revise and Resubmit at Environmental and Resource Economics<br>
+Revise and Resubmit at <i>Environmental and Resource Economics</i><br>
 <br>
 <span style="color:black;"> Estimation of Commodity-Level Demand across Countries: An EASI application </span><br>
 (with Cho, C., Thompson, W., and Hoang, H.)<br>
