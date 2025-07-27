@@ -20,13 +20,13 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 ## Publications
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017">
 Nudging Local: Do Information Treatments Work? </a><br>
-Younghyeon Jeon, Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.<br>
-<i> Journal of the Agricultural and Applied Economics Association<i>, 2025, 1-17.
+Jeon, Y., Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.<br>
+<i> Journal of the Agricultural and Applied Economics Association<i>, 2025, 1-17.<br>
 <br>
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414">
 A Meta‐Analysis of US Food Demand Elasticities to Detect the Impacts of Scanner Data</a><br>
 Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
-<i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780
+<i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780<br>
 
 -----
 <br>
