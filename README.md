@@ -19,7 +19,7 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 
 ## Publications
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017">
-Nudging Local: Do Information Treatments Work? 
+Nudging Local: Do Information Treatments Work? </a><br>
 Younghyeon Jeon, Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.<br>
 <i> Journal of the Agricultural and Applied Economics Association<i>, 2025, 1-17.
 <br>
