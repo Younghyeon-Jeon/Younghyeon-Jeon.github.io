@@ -21,7 +21,7 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017">
 Nudging Local: Do Information Treatments Work? </a><br>
 Jeon, Y., Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.<br>
-<i> Journal of the Agricultural and Applied Economics Association<i>, 2025, 1-17.<br>
+<i> Journal of the Agricultural and Applied Economics Association</i>, 2025, 1-17.<br>
 <br>
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414">
 A Meta‐Analysis of US Food Demand Elasticities to Detect the Impacts of Scanner Data</a><br>
