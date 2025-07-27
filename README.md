@@ -31,6 +31,7 @@ Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
 
 <span style="color:black;"> Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities </span><br>
 (with Thompson, W., Hoang, H., Abler, D., and Miller, J. I.)<br>
+Revise and Resubmit at Food Policy<br>
 <br>
 <span style="color:black;"> Effects of State Marketing Promotions on Consumer Preferences for Locally Grown Blueberries </span><br>
 (with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)<br>
