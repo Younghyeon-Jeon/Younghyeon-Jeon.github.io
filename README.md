@@ -37,8 +37,9 @@ Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
 (with Thompson, W., Hoang, H., Abler, D., and Miller, J. I.)<br>
 Revise and Resubmit at Food Policy<br>
 <br>
-<span style="color:black;"> Effects of State Marketing Promotions on Consumer Preferences for Locally Grown Blueberries </span><br>
-(with Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.)<br>
+<span style="color:black;"> Effect of a Policy Intervention to Stimulate Lead Service Line Replacement: Evidence from Wisconsin </span><br>
+(with Cho, C)<br>
+Revise and Resubmit at Environmental and Resource Economics<br>
 <br>
 <span style="color:black;"> Estimation of Commodity-Level Demand across Countries: An EASI application </span><br>
 (with Cho, C., Thompson, W., and Hoang, H.)<br>
