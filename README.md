@@ -26,7 +26,7 @@ Jeon, Y., Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.<b
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414">
 A Meta‐Analysis of US Food Demand Elasticities to Detect the Impacts of Scanner Data</a><br>
 Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
-<i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780<br>
+<i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780.<br>
 
 -----
 <br>
