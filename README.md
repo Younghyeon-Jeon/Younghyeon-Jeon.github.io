@@ -18,6 +18,10 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 <br>
 
 ## Publications
+<span style="color:black;"> Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities </span><br>
+Jeon, Y., Thompson, W., Miller, J. I., Hoang, H., and Abler, D. <br>
+Forthcoming, <i>Food Policy</i><br>
+<br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017">
 Nudging Local: Do Information Treatments Work? </a><br>
 Jeon, Y., Khachatryan, H., Wei, X., Kassas, B., House, L., and Nayga Jr, R. M.<br>
@@ -32,11 +36,6 @@ Jeon, Y., Hoang, H. K., Thompson, W., Abler, D.<br>
 <br>
 
 ## Working Papers
-
-<span style="color:black;"> Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities </span><br>
-(with Thompson, W., Hoang, H., Abler, D., and Miller, J. I.)<br>
-Revise and Resubmit at <i>Food Policy</i><br>
-<br>
 <span style="color:black;"> Effect of a Policy Intervention to Stimulate Lead Service Line Replacement: Evidence from Wisconsin </span><br>
 (with Cho, C)<br>
 Revise and Resubmit at <i>Environmental and Resource Economics</i><br>
