@@ -21,11 +21,9 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 <span style="color:black;"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </span><br> 
 Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br> 
 <i> Food Policy</i>, Forthcoming. <br> 
-
 <br> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017"> Nudging Local: Do Information Treatments Work? </a><br> 
 Younghyeon Jeon, Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.<br> 
 <i> Journal of the Agricultural and Applied Economics Association</i>, 2025, 1-17.<br> 
-
 <br> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414"> A Meta‐Analysis of US Food Demand Elasticities to Detect the Impacts of Scanner Data</a><br> 
 Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br> 
 <i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780.<br>
