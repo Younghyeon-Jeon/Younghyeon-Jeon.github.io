@@ -18,7 +18,7 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 <br>
 
 ## Publications
-<span style="color:black;"> Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities </span><br>
+<span style="color:black;"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </span><br>
 Jeon, Y., Thompson, W., Miller, J. I., Hoang, H., and Abler, D. <br>
 <i> Food Policy </i>, Forthcoming. <br>
 <br>
