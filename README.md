@@ -20,7 +20,7 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 ## Publications
 <span style="color:black;"> Revealing the Fundamental Parameters of a Food Demand System using Estimated Elasticities </span><br>
 Jeon, Y., Thompson, W., Miller, J. I., Hoang, H., and Abler, D. <br>
-Forthcoming, <i>Food Policy</i><br>
+<i> Food Policy </i>, Forthcoming. <br>
 <br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017">
 Nudging Local: Do Information Treatments Work? </a><br>
