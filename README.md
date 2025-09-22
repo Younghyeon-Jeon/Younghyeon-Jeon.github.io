@@ -22,11 +22,11 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br> 
 <i> Food Policy</i>, 2025, 136, 1-13. <br> 
 <br>
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017"> Nudging Local: Do Information Treatments Work? </a><br> 
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017"> Nudging local: Do information treatments work? </a><br> 
 Younghyeon Jeon, Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.<br> 
 <i> Journal of the Agricultural and Applied Economics Association</i>, 2025, 1-17.<br> 
 <br> 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414"> A Meta‐Analysis of US Food Demand Elasticities to Detect the Impacts of Scanner Data</a><br> 
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414"> A meta‐Analysis of US food demand elasticities to detect the impacts of scanner data</a><br> 
 Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br> 
 <i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780.<br>
 
@@ -34,14 +34,14 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <br>
 
 ## Working Papers
-<span style="color:black;"> Effect of a Policy Intervention to Stimulate Lead Service Line Replacement: Evidence from Wisconsin </span><br>
+<span style="color:black;"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </span><br>
 (with Chanheung Cho)<br>
 Revise and Resubmit at <i>Environmental and Resource Economics</i><br>
 <br>
-<span style="color:black;"> Estimation of Commodity-Level Demand across Countries: An EASI application </span><br>
+<span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
 (with Chanheung Cho, Wyatt Thompson, and Hoa Hoang)<br>
 <br>
-<span style="color:black;"> Reference Price Effects in Choice Experiment </span><br>
+<span style="color:black;"> Reference price effects in choice experiment </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 
 -----
@@ -49,10 +49,10 @@ Revise and Resubmit at <i>Environmental and Resource Economics</i><br>
 
 ## Working in Progress
 
-<span style="color:black;"> Eye Tracking Study of Florida Grown Blueberries </span><br>
+<span style="color:black;"> Eye tracking study of florida grown blueberries </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 <br>
-<span style="color:black;"> Estimation of Demand Elasticities and Price Premiums for Local Food: Evidence from Scanner Data </span><br>
+<span style="color:black;"> Estimation of demand elasticities and price premiums for local food: Evidence from scanner data </span><br>
 (with Hayk Khachatryan, Dong Hee Suh, and Vardges Hovhannisyan)<br>
 
 -----
