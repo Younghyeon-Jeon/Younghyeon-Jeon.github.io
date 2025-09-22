@@ -49,7 +49,7 @@ Revise and Resubmit at <i>Environmental and Resource Economics</i><br>
 
 ## Working in Progress
 
-<span style="color:black;"> Eye tracking study of florida grown blueberries </span><br>
+<span style="color:black;"> Eye tracking study of Florida grown blueberries </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 <br>
 <span style="color:black;"> Estimation of demand elasticities and price premiums for local food: Evidence from scanner data </span><br>
