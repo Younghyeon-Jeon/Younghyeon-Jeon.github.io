@@ -18,7 +18,7 @@ Demand and Price Analysis, Consumer Behavior, Applied Econometrics
 <br>
 
 ## Publications
-<a href="https://authors.elsevier.com/a/1loru15oGpOOPR"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </span><br> 
+<a href="https://authors.elsevier.com/a/1loru15oGpOOPR"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </a><br> 
 Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br> 
 <i> Food Policy</i>, 2025, 136. <br> 
 <br>
