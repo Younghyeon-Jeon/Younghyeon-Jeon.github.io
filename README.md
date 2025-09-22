@@ -26,7 +26,7 @@ Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br>
 Younghyeon Jeon, Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.<br> 
 <i> Journal of the Agricultural and Applied Economics Association</i>, 2025, 1-17.<br> 
 <br> 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414"> A meta‐Analysis of US food demand elasticities to detect the impacts of scanner data</a><br> 
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414"> A meta‐analysis of US food demand elasticities to detect the impacts of scanner data</a><br> 
 Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br> 
 <i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780.<br>
 
