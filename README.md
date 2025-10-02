@@ -47,7 +47,7 @@ Revise and Resubmit at <i>Environmental and Resource Economics</i><br>
 -----
 <br>
 
-## Work in Progress
+## Works in Progress
 
 <span style="color:black;"> Eye tracking study of Florida grown blueberries </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
