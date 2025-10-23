@@ -12,7 +12,7 @@ For more details, please see my <a href="https://drive.google.com/file/d/1xm8eFO
 <br>
 
 ## Research Fields
-Demand and Price Analysis, Consumer Behavior, Applied Econometrics
+Demand and Price Analysis, Consumer Behavior, Quantitative Method
   
 -----
 <br>
