@@ -18,6 +18,10 @@ Demand and Price Analysis, Consumer Behavior, Quantitative Method
 <br>
 
 ## Publications
+<a href="https://chanheungcho.github.io/assets/WP__Water_Compliance.pdf"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
+Chanheung Cho and Younghyeon Jeon<br> 
+<i> Environmental and Resource Economics</i>, Accepted <br> 
+<br>
 <a href="https://doi.org/10.1016/j.foodpol.2025.102951"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </a><br> 
 Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br> 
 <i> Food Policy</i>, 2025, 136, 1-13. <br> 
@@ -34,10 +38,6 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <br>
 
 ## Working Papers
-<span style="color:black;"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </span><br>
-(with Chanheung Cho)<br>
-Revise and Resubmit at <i>Environmental and Resource Economics</i><br>
-<br>
 <span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
 (with Chanheung Cho, Wyatt Thompson, and Hoa Hoang)<br>
 <br>
