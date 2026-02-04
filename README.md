@@ -47,17 +47,6 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 -----
 <br>
 
-## Selected Works in Progress
-
-<span style="color:black;"> Eye tracking study of Florida grown blueberries </span><br>
-(with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
-<br>
-<span style="color:black;"> Estimation of demand elasticities and price premiums for local food: Evidence from scanner data </span><br>
-(with Hayk Khachatryan, Dong Hee Suh, and Vardges Hovhannisyan)<br>
-
------
-<br>
-
 ## Teaching
 
 University of Missouri-Columbia<br>
