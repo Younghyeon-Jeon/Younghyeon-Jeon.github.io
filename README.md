@@ -2,8 +2,7 @@
 
 ## 👏 Hello!
 
-I am an agricultural economist with research interests in agricultural and food policy, demand and price analysis, and consumer behavior. I am currently on the job market and am actively looking for academic and research opportunities.
-For more details, please see my <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"> Curriculum Vitae</a>.
+I am an agricultural economist with research interests in agricultural and food policy, demand and price analysis, and consumer behavior. I am currently on the job market and am looking for academic and research opportunities. Please see my <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"> CV</a> for more details.
 
 -----
 <br>
