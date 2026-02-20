@@ -2,10 +2,7 @@
 
 ## 👏 Hello!
 
-I am an agricultural economist with research interests in agricultural and food policy, demand and price analysis, and consumer behavior.
-I received my Ph.D. degree in Agricultural and Applied Economics from the University of Missouri-Columbia in 2023 and worked as a postdoctoral research associate at the University of Florida from 2023 to 2025.
-
-I am currently on the job market and am actively looking for academic and research opportunities.
+I am an agricultural economist with research interests in agricultural and food policy, demand and price analysis, and consumer behavior. I am currently on the job market and am actively looking for academic and research opportunities.
 For more details, please see my <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"> CV</a>.
 
 -----
