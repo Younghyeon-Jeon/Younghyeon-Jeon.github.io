@@ -43,11 +43,9 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 </span><br>
 (with Chanheung Cho)<br>
 <br>
-
 <span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
 (with Chanheung Cho, Wyatt Thompson, and Hoa Hoang)<br>
 <br>
-
 <span style="color:black;"> Reference price effects in choice experiment </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 
