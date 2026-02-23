@@ -38,7 +38,7 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <a href="https://drive.google.com/file/d/16073ewxG_-euwkd3IuY3e5hNYmxUCsSX/view?usp=drive_link" 
    target="_blank" 
    style="color:black; text-decoration:none;">
-  Heterogeneous Effects of Distressed Utilities Policy on Wastewater Compliance
+  Heterogeneous effects of distressed utilities policy on wastewater compliance
 </a>
 </span><br>
 (with Chanheung Cho)<br>
