@@ -34,7 +34,7 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <br>
 
 ## Selected Working Papers
-<span style="color:black;"> Heterogeneous Effects of Distressed Utilities Policy on Wastewater Compliance </span><br>
+<span style="color:black;"> Heterogeneous effects of distressed utilities policy on wastewater compliance </span><br>
 (with Chanheung Cho)<br>
 <br>
 <span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
