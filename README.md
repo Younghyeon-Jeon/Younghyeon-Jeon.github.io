@@ -14,7 +14,7 @@ Demand and Price Analysis, Consumer Behavior, Quantitative Method
 <br>
 
 ## Publications
-<a href="https://chanheungcho.github.io/assets/WP__Water_Compliance.pdf"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
+<a href="https://drive.google.com/file/d/10O1efcPTaxsD7U2VYnrfRjrNFqrnodfE/view?usp=drive_link"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
 Chanheung Cho and Younghyeon Jeon<br> 
 <i> Environmental and Resource Economics</i>, Accepted. <br> 
 <br>
