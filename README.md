@@ -14,9 +14,9 @@ Demand and Price Analysis, Consumer Behavior, Quantitative Method
 <br>
 
 ## Publications
-<a href="https://drive.google.com/file/d/10O1efcPTaxsD7U2VYnrfRjrNFqrnodfE/view?usp=drive_link"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
+<a href="https://link.springer.com/article/10.1007/s10640-026-01075-4"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
 Chanheung Cho and Younghyeon Jeon<br> 
-<i> Environmental and Resource Economics</i>, Forthcoming. <br> 
+<i> Environmental and Resource Economics</i>, 2026, 89:23. <br> 
 <br>
 <a href="https://doi.org/10.1016/j.foodpol.2025.102951"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </a><br> 
 Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br> 
