@@ -37,7 +37,7 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
 (with Chanheung Cho, Wyatt Thompson, and Hoa Hoang)<br>
 <br>
-<span style="color:black;"> Reference price effects in choice experiment </span><br>
+<span style="color:black;"> Incorporating reference-price information in Bayesian estimation: Evidence from consumer preference for fresh blueberries </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 <br>
 <span style="color:black;">
