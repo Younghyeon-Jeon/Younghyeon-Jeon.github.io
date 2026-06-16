@@ -2,7 +2,7 @@
 
 ## 👏 Hello!
 
-I am an agricultural and applied economist specializing in demand and price analysis, consumer behavior, and agricultural and food policy. My research applies econometric and quantitative methods to examine consumer decision-making, food markets, and policy impacts. Currently I work with Dr. Lisa House at the University of Florida and Dr. Kathryn Boys at North Carolina State University. I am on the job market and seeking academic and research positions.
+I am an agricultural and applied economist specializing in demand and price analysis, consumer behavior, and agricultural and food policy. My research applies econometric and quantitative methods to examine consumer decision-making, food markets, and policy impacts. I am on the academic job market and seeking academic and research positions.
 
 <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"
    style="font-size:24px;">
