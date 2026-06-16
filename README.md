@@ -2,33 +2,9 @@
 
 ## 👏 Hello!
 
-I am an agricultural economist with research interests in agricultural and food policy, demand and price analysis, and consumer behavior. I am currently on the job market and am looking for academic and research opportunities. Please see my <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"> CV</a> for more details.
+I am an agricultural economist with research interests in agricultural and food policy, demand and price analysis, and consumer behavior. I am currently on the job market and am looking for academic and research opportunities. My research focuses on demand and price analysis, consumer behavior, and quantitative method. 
 
------
-<br>
-
-## Research Fields
-Demand and Price Analysis, Consumer Behavior, Quantitative Method
-  
------
-<br>
-
-## Publications
-<a href="https://link.springer.com/article/10.1007/s10640-026-01075-4"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
-Chanheung Cho and Younghyeon Jeon<br> 
-<i> Environmental and Resource Economics</i>, 2026, 89:23. <br> 
-<br>
-<a href="https://doi.org/10.1016/j.foodpol.2025.102951"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </a><br> 
-Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br> 
-<i> Food Policy</i>, 2025, 136, 1-13. <br> 
-<br>
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017"> Nudging local: Do information treatments work? </a><br> 
-Younghyeon Jeon, Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.<br> 
-<i> Journal of the Agricultural and Applied Economics Association</i>, 2025, 1-17.<br> 
-<br> 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414"> A meta‐analysis of US food demand elasticities to detect the impacts of scanner data</a><br> 
-Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br> 
-<i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780.<br>
+<a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"> Curriculum Vitae (PDF) </a>
 
 -----
 <br>
@@ -48,6 +24,26 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 </a>
 </span><br>
 (with Chanheung Cho)<br>
+
+-----
+<br>
+
+## Publications
+<a href="https://link.springer.com/article/10.1007/s10640-026-01075-4"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
+Chanheung Cho and Younghyeon Jeon<br> 
+<i> Environmental and Resource Economics</i>, 2026, 89:23. <br> 
+<br>
+<a href="https://doi.org/10.1016/j.foodpol.2025.102951"> Revealing fundamental demand parameters: A new theoretically consistent meta-regression approach to US food demand elasticities </a><br> 
+Younghyeon Jeon, Wyatt Thompson, J. Isaac Miller, Hoa Hoang, and David Abler<br> 
+<i> Food Policy</i>, 2025, 136, 1-13. <br> 
+<br>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.70017"> Nudging local: Do information treatments work? </a><br> 
+Younghyeon Jeon, Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.<br> 
+<i> Journal of the Agricultural and Applied Economics Association</i>, 2025, 1-17.<br> 
+<br> 
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13414"> A meta‐analysis of US food demand elasticities to detect the impacts of scanner data</a><br> 
+Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br> 
+<i> Applied Economic Perspectives and Policy</i>, 2024, 46(2), 760-780.<br>
 
 -----
 <br>
