@@ -5,7 +5,7 @@
 I am an agricultural and applied economist specializing in demand and price analysis, consumer behavior, and agricultural and food policy. My research applies econometric and quantitative methods to examine consumer decision-making, food markets, and policy impacts. I am on the academic job market and seeking academic and research positions.
 
 <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"
-   style="font-size:24px;">
+   style="font-size:20px;">
    Curriculum Vitae (PDF)
 </a>
 
