@@ -6,7 +6,7 @@ I am an agricultural and applied economist specializing in demand and price anal
 
 <a href="https://drive.google.com/file/d/1xm8eFO7rykp8yycjWC8pudH7pnZOGy2f/view?usp=drive_link"
    style="font-size:16px;">
-   Curriculum Vitae (PDF)
+   Curriculum Vitae
 </a>
 
 -----
