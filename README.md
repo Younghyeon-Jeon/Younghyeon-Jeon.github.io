@@ -13,11 +13,9 @@ I am an agricultural and applied economist specializing in demand and price anal
 <br>
 
 ## Selected Working Papers
-<span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
-(with Wyatt Thompson, Hoa Hoang, and Chanheung Cho)<br>
-<br>
 <span style="color:black;"> Incorporating reference-price information in Bayesian estimation: Evidence from consumer preference for fresh blueberries </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
+R&R at <i>American Journal of Agricultural Economics</i>
 <br>
 <span style="color:black;">
 <a href="https://drive.google.com/file/d/16073ewxG_-euwkd3IuY3e5hNYmxUCsSX/view?usp=drive_link" 
@@ -27,6 +25,11 @@ I am an agricultural and applied economist specializing in demand and price anal
 </a>
 </span><br>
 (with Chanheung Cho)<br>
+R&R at <i>Environmental Research Communications</i>
+<br>
+<span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
+(with Wyatt Thompson, Hoa Hoang, and Chanheung Cho)<br>
+<br>
 
 -----
 <br>
