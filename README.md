@@ -29,7 +29,7 @@ I am an agricultural and applied economist specializing in demand and price anal
 <br>
 <span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
 (with Wyatt Thompson, Hoa Hoang, and Chanheung Cho)<br>
-<br>
+<i> Under review </i> <br> 
 
 -----
 <br>
