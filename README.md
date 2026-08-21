@@ -31,11 +31,7 @@ I am an agricultural and applied economist specializing in demand and price anal
 <br>
 
 ## Publications
-<span style="color:black;">
-<a href="https://drive.google.com/file/d/16073ewxG_-euwkd3IuY3e5hNYmxUCsSX/view?usp=drive_link" 
-   target="_blank" 
-   style="color:black; text-decoration:none;">
-  Heterogeneous effects of distressed utilities policy on wastewater compliance </a><br>
+<a href="https://drive.google.com/file/d/16073ewxG_-euwkd3IuY3e5hNYmxUCsSX/view?usp=drive_link"> Heterogeneous effects of distressed utilities policy on wastewater compliance </a><br>
 Younghyeon Jeon and Chanheung Cho<br> 
 <i> Environmental Research Communications</i>, Accepted. <br> 
 <br>
