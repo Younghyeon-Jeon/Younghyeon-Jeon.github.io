@@ -60,11 +60,15 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <br>
 
 <span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
-(with Chanheung Cho and Wyatt Thompson)<br>
+(with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 <br>
 
-<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
-(with Chanheung Cho and Wyatt Thompson)<br>
+<span style="color:black;"> Estimating consumer demand for antibiotic-restricted poultry products: Evidence from household scanner data  </span><br>
+(with Kathryn Boys)<br>
+<br>
+
+<span style="color:black;"> Juice or drink: Demand elasticities by orange juice contents in the US orange beverage market  </span><br>
+(with Sungeun Yoon and Lisa House)<br>
 <br>
 
 -----
