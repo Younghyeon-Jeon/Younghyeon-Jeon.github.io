@@ -17,16 +17,6 @@ I am an agricultural and applied economist specializing in demand and price anal
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 <i> R&R at American Journal of Agricultural Economics</i> <br> 
 <br>
-<span style="color:black;">
-<a href="https://drive.google.com/file/d/16073ewxG_-euwkd3IuY3e5hNYmxUCsSX/view?usp=drive_link" 
-   target="_blank" 
-   style="color:black; text-decoration:none;">
-  Heterogeneous effects of distressed utilities policy on wastewater compliance
-</a>
-</span><br>
-(with Chanheung Cho)<br>
-<i> R&R at Environmental Research Communications</i> <br> 
-<br>
 <span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
 (with Wyatt Thompson, Hoa Hoang, and Chanheung Cho)<br>
 <i> Under review </i> <br> 
@@ -41,6 +31,14 @@ I am an agricultural and applied economist specializing in demand and price anal
 <br>
 
 ## Publications
+<span style="color:black;">
+<a href="https://drive.google.com/file/d/16073ewxG_-euwkd3IuY3e5hNYmxUCsSX/view?usp=drive_link" 
+   target="_blank" 
+   style="color:black; text-decoration:none;">
+  Heterogeneous effects of distressed utilities policy on wastewater compliance </a><br>
+Chanheung Cho and Younghyeon Jeon<br> 
+<i> Environmental Research Communications</i>, Forthcoming. <br> 
+<br>
 <a href="https://link.springer.com/article/10.1007/s10640-026-01075-4"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
 Chanheung Cho and Younghyeon Jeon<br> 
 <i> Environmental and Resource Economics</i>, 2026, 89:23. <br> 
