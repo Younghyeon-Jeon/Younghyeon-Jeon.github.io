@@ -36,8 +36,8 @@ I am an agricultural and applied economist specializing in demand and price anal
    target="_blank" 
    style="color:black; text-decoration:none;">
   Heterogeneous effects of distressed utilities policy on wastewater compliance </a><br>
-Chanheung Cho and Younghyeon Jeon<br> 
-<i> Environmental Research Communications</i>, Forthcoming. <br> 
+Younghyeon Jeon and Chanheung Cho<br> 
+<i> Environmental Research Communications</i>, Accepted. <br> 
 <br>
 <a href="https://link.springer.com/article/10.1007/s10640-026-01075-4"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
 Chanheung Cho and Younghyeon Jeon<br> 
