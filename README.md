@@ -30,6 +30,9 @@ I am an agricultural and applied economist specializing in demand and price anal
 <span style="color:black;"> Estimation of commodity-level demand across countries: An EASI application </span><br>
 (with Wyatt Thompson, Hoa Hoang, and Chanheung Cho)<br>
 <i> Under review </i> <br> 
+<br>
+<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
+(with Chanheung Cho and Wyatt Thompson)<br>
 
 -----
 <br>
@@ -55,9 +58,6 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <br>
 
 ## Work in Progress
-<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
-(with Chanheung Cho and Wyatt Thompson)<br>
-<br>
 <span style="color:black;"> Does local brand perception dominate actual product origin? Evidence from visual attention and willingness to pay </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 <br>
