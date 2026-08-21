@@ -58,7 +58,7 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 <span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
 (with Chanheung Cho and Wyatt Thompson)<br>
 <br>
-<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
+<span style="color:black;"> Does local brand perception dominate actual product origin? Evidence from visual attention and willingness to pay </span><br>
 (with Hayk Khachatryan, Xuan Wei, Bachir Kassas, Lisa House, and Rodolfo M. Nayga, Jr.)<br>
 <br>
 <span style="color:black;"> Estimating consumer demand for antibiotic-restricted poultry products: Evidence from household scanner data  </span><br>
