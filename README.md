@@ -54,6 +54,22 @@ Younghyeon Jeon, Hoa Hoang, Wyatt Thompson, and David Abler<br>
 -----
 <br>
 
+## Work in Progress
+<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
+(with Chanheung Cho and Wyatt Thompson)<br>
+<br>
+
+<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
+(with Chanheung Cho and Wyatt Thompson)<br>
+<br>
+
+<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after the Russia–Ukraine War </span><br>
+(with Chanheung Cho and Wyatt Thompson)<br>
+<br>
+
+-----
+<br>
+
 ## Teaching
 
 University of Missouri-Columbia<br>
