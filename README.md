@@ -21,7 +21,7 @@ I am an agricultural and applied economist specializing in demand and price anal
 (with Wyatt Thompson, Hoa Hoang, and Chanheung Cho)<br>
 <i> Under review </i> <br> 
 <br>
-<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after Russia’s Invasion of Ukraine </span><br>
+<span style="color:black;"> From synchronization to fragmentation: Global cereal market linkages after Russia’s invasion of Ukraine </span><br>
 (with Chanheung Cho and Wyatt Thompson)<br>
 <br>
 <span style="color:black;"> Estimating consumer demand for antibiotic-restricted poultry products: Evidence from household scanner data  </span><br>
