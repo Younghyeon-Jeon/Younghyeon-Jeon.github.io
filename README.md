@@ -31,9 +31,9 @@ I am an agricultural and applied economist specializing in demand and price anal
 <br>
 
 ## Publications
-<a href="https://drive.google.com/file/d/16073ewxG_-euwkd3IuY3e5hNYmxUCsSX/view?usp=drive_link"> Heterogeneous effects of distressed utilities policy on wastewater compliance </a><br>
+<a href="https://iopscience.iop.org/article/10.1088/2515-7620/ae9f32"> Heterogeneous effects of distressed utilities policy on wastewater compliance </a><br>
 Younghyeon Jeon and Chanheung Cho<br> 
-<i> Environmental Research Communications</i>, Accepted. <br> 
+<i> Environmental Research Communications</i>, 2026, 8(9). <br> 
 <br>
 <a href="https://link.springer.com/article/10.1007/s10640-026-01075-4"> Effect of a policy intervention to stimulate lead service line replacement: Evidence from Wisconsin </a><br> 
 Chanheung Cho and Younghyeon Jeon<br> 
